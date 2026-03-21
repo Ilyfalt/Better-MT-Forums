@@ -2,4 +2,4 @@
  - 一个AI写的MT论坛脚本
 # 原作者
  - qcxs(青春向上)
- - [原脚本项目](https://github.com/qcxs/mtbbs)
+ - [原脚本仓库](https://github.com/qcxs/mtbbs)
